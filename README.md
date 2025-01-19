@@ -1,1 +1,1 @@
-"# EyeVanguard Model Development" 
+# EyeVanguard Model Development
